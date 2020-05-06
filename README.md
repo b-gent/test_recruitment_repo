@@ -2,6 +2,6 @@
 
 Hi! Here's the task:
 
-1. Do this
-2. And that
-3. Finally this.
+1. Fork the repo
+2. Edit the file
+3. Open Pull Request
