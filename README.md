@@ -29,10 +29,9 @@ You will need [Git Bash](https://gitforwindows.org) to run the Git commands on y
 
 1. [Fork the repository](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) to create your copy of it.
 2. [Clone your fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo#step-2-create-a-local-clone-of-your-fork) to get the files on your PC.
-3. [Sync your fork with the original repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo#step-3-configure-git-to-sync-your-fork-with-the-original-spoon-knife-repository) by adding it as an upstream repository. If you have just cloned your repo, proceed from step 6 in the link (''git remote -v'').
-4. Edit the RST file and build the output on your PC (main task).
-5. Use Git Bash to add, commit, and push your changes to your fork.
-6. Open a Pull Request from your fork to the original repository.
+3. Edit the RST file and build the output on your PC (main task).
+4. Use Git Bash to add, commit, and push your changes to your fork.
+5. Open a Pull Request from your fork to the original repository.
 
 ### Do it offline
 
