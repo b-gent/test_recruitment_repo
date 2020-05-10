@@ -12,7 +12,9 @@ To build the documentation, complete the following steps:
 #. Enter ``make html`` to build the HTML output.
 
    .. tip::
-      If you get an error message that the make command cannot be found, you might be in the wrong folder, or you might need to explicitly state which command to run (for example, ``./make.bat html`` on Windows).
+      If you get an error message that the **make** command cannot be found, you might be in the wrong folder, or you might need to explicitly state which command to run (for example, ``./make.bat html`` on Windows).
+
+      On Linux, you might need to install **make** as instructed.
 
 The documentation build reports any errors or warnings that occur.
-The output is placed in the ``doc/_build`` folder.
+The output is placed in the ``doc/_build/html`` folder.
