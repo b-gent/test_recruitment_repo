@@ -11,7 +11,7 @@ The documentation follows the Zephyr style guide, and adds a few more restrictiv
 Titles and headings
 *******************
 
-Keep titles and headings as short and to the point as possible.
+Keep titles and headings as short and to the point as possible. blah blah
 
 Titles
 ======
