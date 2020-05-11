@@ -3,7 +3,7 @@
 Preparing for OTA-DFU
 #####################
 
-The following procedures assume that you want to update the device with your own own custom firmware.
+The following procedures assume that you want to update the device with your own custom firmware.
 To do this, you must complete the following steps:
 
 1. Generate your own public and private key pair.
