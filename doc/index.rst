@@ -10,5 +10,6 @@ Welcome to Test repo's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   ota_dfu
    building_the_docs
    doc_styleguide
