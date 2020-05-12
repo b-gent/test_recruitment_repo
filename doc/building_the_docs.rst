@@ -3,7 +3,7 @@
 Building the documentation
 ##########################
 
-Before can build the documentation, you must install `Sphinx <https://www.sphinx-doc.org/>`_.
+Before you can build the documentation, you must install `Sphinx <https://www.sphinx-doc.org/>`_.
 See the `installation instructions <https://www.sphinx-doc.org/en/master/usage/installation.html>`_ on the Sphinx website for detailed information.
 
 To build the documentation, complete the following steps:
