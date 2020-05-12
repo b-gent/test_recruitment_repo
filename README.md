@@ -2,7 +2,7 @@
 
 Hi! In this task, we would like you to show us that you can perform basic operations on reStructuredText (RST) files.
 
-If you have never worked with the RST format before, you will easily find resources online. In the ``doc`` folder of this repository, you will also find some documentation files that are written using RST. They should give you a good idea how to handle this format.
+If you have never worked with the RST format before, see [reStructuredText Primer](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html) for an introduction. In the ``doc`` folder of this repository, you will also find some documentation files that are written using RST. They should give you a good idea how to handle this format.
 
 Note: RST files can be viewed and edited with any text editor, for example Notepad++.
 
