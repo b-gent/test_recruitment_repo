@@ -12,7 +12,7 @@ The following procedure involves using a desktop device and a connectivity board
 
 Install the following software on your computer before running this procedure:
 
-* `nRF Connect for desktop <https://www.nordicsemi.com/Software-and-tools/Development-Tools/nRF-Connect-for-desktop>`_
+* `nRF Connect for Desktop <https://www.nordicsemi.com/Software-and-tools/Development-Tools/nRF-Connect-for-desktop>`_
 * `nRF Util <https://github.com/NordicSemiconductor/pc-nrfutil>`_
 
 You also need either an nRF51 DK or an nRF52 DK that will function as a connectivity board during DFU.

@@ -18,3 +18,4 @@ To build the documentation, complete the following steps:
 
 The documentation build reports any errors or warnings that occur.
 The output is placed in the ``doc/_build/html`` folder.
+Open ``doc/_build/html/index.html`` to start browsing the documentation.
