@@ -18,14 +18,13 @@ This GitHub repository already contains some documentation files in the ``doc`` 
 
 ## Interacting with the repository files
 
-GitHub allows you to view the files in this repo, but to interact with them in any way, you will need to get them onto your hard drive. The default way of interacting with the files is the following:
+GitHub allows you to view the files in this repo, but to interact with them in any way, you will need to get them onto your hard drive.
+Follow this workflow to download and edit the files:
 
 1. Use the Download button to get the zipped files onto your PC.
 2. Unzip the downloaded repository.
 3. Complete your task.
 4. Zip the repository with your added/modified RST files and send it to us via email.
-
-Note: An alternative way is to fork this repository, perform the task, and then send us a link to it (or open a pull request with your changed files). Attempt this method only if you have considerable experience with Git.
 
 ## Building the output
 
