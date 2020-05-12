@@ -13,7 +13,7 @@ Your task is to convert the small documentation section that you got from us in 
 This GitHub repository already contains some documentation files in the ``doc`` folder. You will find three types of files in there:
 
 * RST files with ``.rst`` extension. They hold the content of this small documentation set. View them to see how RST syntax looks like. Your main task involves editing some of these files or adding new RST files (whichever you consider more appropriate).
-* Images in the ``doc/images`` folder. These image files are referenced from RST and displayed in the HTML documentation. You will need to add four image files here as part of your task.
+* Images in the ``doc/images`` folder. These image files are referenced from RST and displayed in the HTML documentation. You will need to add some image files here as part of your task.
 * All other files. They constitute the build framework that we have set up for you. They are used to build HTML from RST. Do not edit them in any way or things might stop working.
 
 ## Interacting with the repository files
