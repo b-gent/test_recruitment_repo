@@ -32,11 +32,11 @@ After downloading the repo to your PC, start by building HTML documentation outp
 
 This will give you an idea of how different RST syntax is reflected in the resulting HTML.
 
-When you are done with the task, it is also important that you check the result of your work by building HTML from the RST files that you have added or edited. Any build errors or warnings indicate that something is wrong in the RST syntax. Make sure that the added content displays correctly in the HTML output.
+When you are done with the task, it is also important that you check the result of your work by building HTML again, to see the output including the RST files that you have added or edited. Any build errors or warnings indicate that something is wrong in the RST syntax. Make sure that the added content displays correctly in the HTML output.
 
 ## Content to be added
 
-*Upgrade with nRF Connect for Mobile* contains several mistakes of various sort. When converting this content to RST, try to find and correct as many as you can.
+*Upgrade with nRF Connect for Mobile* contains several mistakes of various sort. When converting this content to RST, try to find and correct as many as you can. For this task, you can rely solely on the information in this small documentation set and do not need to consult other documentation.
 
 Additionally, think whether all the content from *Upgrade with nRF Connect for Mobile* should be kept in one chunk or whether it makes sense to divide it and put it in more than one RST file. Remember that you can either create new RST files in the ``doc`` folder or you can choose to only edit the existing ones.
 
